@@ -8,3 +8,8 @@ Code prompts user for input on a series of questions. If user attempts to input 
 the code will simply request a numerical amount and allow for resubmission.
 
 Have fun!
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amandersonyou/Rent-While-Owning-Calculator/master/InProgressTerminalView.png" alt=“Terminal_View”>
+</p>
